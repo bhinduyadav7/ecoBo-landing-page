@@ -29,6 +29,7 @@ EcoBo is a fictional startup that promotes sustainable hydration through eco-fri
 
 ## Setup Instructions
 npm install
+
 npm run dev
 
 ## Build
@@ -36,3 +37,7 @@ npm run build
 
 ## Deployment
 Deployed on Vercel.
+
+## Assumptions & Notes
+Built as a fictional startup landing page assignment.
+Optimized for desktop, tablet, and mobile devices.
